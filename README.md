@@ -1,3 +1,9 @@
+> **9base status: Preserved.** Preserved reference fork of [gems-uff/archtrace](https://github.com/gems-uff/archtrace), architecture-to-implementation traceability research software credited in the inherited documentation to Leonardo Murta, Andre van der Hoek and Claudia Werner. Before documentation curation, `master` exactly matched upstream; no 9base-specific branch development was established. This copy is no longer maintained by 9base. Original research, publication and copyright information remains below.
+>
+> Documentation reconstructed from repository history on 8 October 2026.
+
+---
+
 ArchTrace
 =========
 
